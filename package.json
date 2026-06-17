@@ -1,0 +1,12 @@
+{
+  "name": "student-task-manager-api",
+  "version": "1.0.0",
+  "description": "Simple Node.js and Express backend API for a Student Task Manager",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4"
+  }
+}
